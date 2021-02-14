@@ -6,7 +6,7 @@ for char in school:
     if char == 'o' or char == 'e' or char == 'i' \
     or char == 'a' or char == 'u'
         numV += 1
-    elif char == 'O' or char == "M"
+    elif char == 'O' or char == "M":
         print(char)
     else:
         numC -= 1
