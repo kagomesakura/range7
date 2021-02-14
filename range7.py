@@ -1,4 +1,4 @@
-school = Massachusetts Institute Of Technology
+school = 'Massachusetts Institute Of Technology'
 numV = 0
 numC = 0
 
