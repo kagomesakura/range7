@@ -13,4 +13,6 @@ for char in school:
 
 print('numV is: ' + str(numV))
 print('numC is: ' + str(numC))
+
+
 # anwer is:  M, numV = 11, numC = -25
