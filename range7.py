@@ -13,6 +13,4 @@ for char in school:
 
 print('numV is: ' + str(numV))
 print('numC is: ' + str(numC))
-# M
-# numV = 11
-# numC = -25
+# anwer is:  M, numV = 11, numC = -25
